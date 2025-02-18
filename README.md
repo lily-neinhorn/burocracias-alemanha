@@ -68,7 +68,9 @@ Os passos para requerer um novo passaporte são:
   **Processo de check-in no dia do atendimento**
   ![Processo de check-in](check-in.png)
 
-Após ter o atendimento na embaixada, você deve aguardar um novo e-mail informando que o seu passaporte está pronto<sup>3</sup>. Quando você receber o novo e-mail dizendo que o seu passaporte está pronto, você deve novamente fazer login no sistema [e-consular do site da Embaixada de Berlim](https://ec-berlim.itamaraty.gov.br/), solicitar o serviço "Buscar documento já pronto" e novamente agendar um dia para ir na Embaixada buscar o seu novo passaporte. 🎉 No dia marcado para buscar o seu novo passaporte, lembre-se de **fazer check-in para o atendimento ao chegar no consulado conforme passos indicados acima**.
+Após ter o atendimento na embaixada, você deve aguardar um novo e-mail informando que o seu passaporte está pronto<sup>3</sup>. Quando você receber o novo e-mail dizendo que o seu passaporte está pronto, você deve novamente fazer login no sistema [e-consular do site da Embaixada de Berlim](https://ec-berlim.itamaraty.gov.br/) e desta vez solicitar o serviço "Passaporte - Retirada de documento pronto" e aguardar que a solicitação seja validada. No meu caso esta segunda validação levou apenas um dia. Depois de validado, você receberá novamente um email dizendo que pode ir novamente no site e selecionar uma data e horário para ir na Embaixada buscar o seu novo passaporte. 🎉 
+
+No dia marcado para buscar o seu novo passaporte, lembre-se de **fazer check-in para o atendimento ao chegar no consulado conforme passos indicados acima**.
 
 
 2. Caso você opte por enviar sua documentação pelos correios, é necessário entregar envelope extra com o endereço completo do requerente para que o Consulado possa reenviar o passaporte novo pelos correios.<br>O envelope deve ter, no mínimo, o tamanho de meia página A4 (B5 ou C5), forrado (destes com plástico bolha na parte de dentro), selado com 4,15€ "Einschreiben/Einwurf", para envio como carta registrada.
